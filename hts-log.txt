@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Jul 2022 00:20:44 at http://wp.alithemes.com/html/nest/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].http://wp.alithemes.com/html/nest/demo/index.html/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://wp.alithemes.com/html/nest/demo/index.html -O1 ""C:\Users\akash\OneDrive\Desktop\Ecommerce Project"\Ecommerce Project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].http://wp.alithemes.com/html/nest/demo/index.html/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:27:19	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/page-about.htlm (from wp.alithemes.com/html/nest/demo/index.html)
+00:27:34	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/shop-order.html (from wp.alithemes.com/html/nest/demo/index.html)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/assets/imgs/favicon.svg (from wp.alithemes.com/html/nest/demo/assets/css/main.css?v=5.2)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/assets/imgs/theme/btn-brush-bg-1.png (from wp.alithemes.com/html/nest/demo/assets/css/main.css?v=5.2)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/assets/imgs/theme/btn-brush-bg-2.png (from wp.alithemes.com/html/nest/demo/assets/css/main.css?v=5.2)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/assets/imgs/theme/btn-brush-bg-3.png (from wp.alithemes.com/html/nest/demo/assets/css/main.css?v=5.2)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/shop-product-detail.html (from wp.alithemes.com/html/nest/demo/shop-product-right.html)
+00:42:47	Warning: 	Retry after error -4 (Connect Error) at link wp.alithemes.com/html/nest/demo/assets/imgs/theme/icons/category-11.svg (from wp.alithemes.com/html/nest/demo/index-2.html)
+00:42:47	Warning: 	Retry after error -4 (No data (connection closed)) at link wp.alithemes.com/html/nest/demo/assets/imgs/banner/banner-17.png (from wp.alithemes.com/html/nest/demo/index-5.html)
+00:42:47	Error: 	"Not Found" (404) at link wp.alithemes.com/html/nest/demo/author.html (from wp.alithemes.com/html/nest/demo/blog-post-left.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 10 seconds : 333 links scanned, 322 files written (35678109 bytes overall) [28803635 bytes received at 21656 bytes/sec], 8376394 bytes transferred using HTTP compression in 164 files, ratio 14%, 4.0 requests per connection
+(8 errors, 2 warnings, 0 messages)
